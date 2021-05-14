@@ -1,5 +1,0 @@
-FlashPROM.c:26:6:Erase_flash	16	static
-FlashPROM.c:51:10:Flash_search_adress	8	static
-FlashPROM.c:71:6:Write_to_flash	16	static
-FlashPROM.c:112:6:Read_last_data_in_flash	0	static
-FlashPROM.c:10:6:Read_control_module_info_from_flash	8	static

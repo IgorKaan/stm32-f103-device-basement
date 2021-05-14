@@ -1,7 +1,0 @@
-Device_relay.c:3:6:activate_pin	0	static
-Device_relay.c:10:16:relay_init	24	static
-Device_relay.c:20:6:relay_set_state	0	static
-Device_relay.c:25:6:relay_toggle	8	static
-Device_relay.c:30:6:relay_off	0	static
-Device_relay.c:34:6:relay_on	0	static
-Device_relay.c:38:15:relay_pin_signal	0	static
