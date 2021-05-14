@@ -1,0 +1,4 @@
+Check_clock.c:3:6:clock_add_second	16	static
+Check_clock.c:61:6:clock_comparison	0	static
+Check_clock.c:77:6:clock_range_membership	24	static
+Check_clock.c:95:6:search_nearest_clock	24	static

@@ -1,0 +1,7 @@
+main.c:130:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:261:6:SystemClock_Config	96	static,ignoring_inline_asm
+main.c:465:6:HAL_GPIO_EXTI_Callback	0	static,ignoring_inline_asm
+main.c:480:6:alarm_rtc	24	static
+main.c:494:6:DevicesGetValues	0	static
+main.c:143:5:main	128	static,ignoring_inline_asm
+main.c:513:6:Error_Handler	0	static,ignoring_inline_asm
